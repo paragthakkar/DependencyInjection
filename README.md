@@ -1,3 +1,3 @@
 # DependencyInjection
 
-Travis Build Status
+Travis Build Status https://travis-ci.com/paragthakkar/DependencyInjection.svg?branch=master
